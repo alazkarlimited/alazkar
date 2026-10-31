@@ -1,0 +1,6 @@
+{
+  "name": "جامع صحيح الأذكار - الألباني",
+  "description": "تطبيق ويب تفاعلي قياسي وشامل لجامع صحيح الأذكار للإمام المحدث محمد ناصر الدين الألباني، مع التبويبات والبحث والعداد والتنبيهات والوضع الليلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
